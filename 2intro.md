@@ -19,3 +19,10 @@ hr tag stands for horizontal rule which provides a horizontal line
 - ![Alt text](image-61.png)
 - ![Alt text](image-62.png)
 - ![Alt text](image-63.png)
+# HTML styles
+- ![Alt text](image-64.png)
+- ![Alt text](image-65.png)
+- ![Alt text](image-66.png)
+# HTML background color 
+- ![Alt text](image-67.png)
+- ![Alt text](image-68.png)
