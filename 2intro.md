@@ -26,3 +26,16 @@ hr tag stands for horizontal rule which provides a horizontal line
 # HTML background color 
 - ![Alt text](image-67.png)
 - ![Alt text](image-68.png)
+# Text Color
+- ![Alt text](image-69.png)
+- ![Alt text](image-70.png)
+# Font family
+- ![Alt text](image-72.png)
+- ![Alt text](image-71.png)
+- ![Alt text](image-73.png)
+- ![Alt text](image-74.png)
+- ![Alt text](image-75.png)
+# Text align
+- ![Alt text](image-76.png)
+- ![Alt text](image-77.png)
+- ![Alt text](image-78.png)
